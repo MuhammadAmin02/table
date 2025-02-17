@@ -1,0 +1,17 @@
+table,td,th,tr{
+    border: 4px solid black; 
+}
+th{
+    background-color: blue ;
+    color: blueviolet;
+
+}
+caption
+{
+    color: red;
+    background-color: aqua;
+
+}
+td{
+    background-color: rgb(234, 11, 11);
+}
